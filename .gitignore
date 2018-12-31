@@ -1,0 +1,9 @@
+.idea
+.pytest_cache
+*.pyc
+__pycache__/
+*/__pycache__/
+.vscode/
+env/
+migrations/
+data.csv
